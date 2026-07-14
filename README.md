@@ -1,6 +1,6 @@
 <div>
 
-# Einstein ⚡
+# Zaphenath Bassey A.K.A Einstein ⚡
 
 ### Frontend Engineer • React & Next.js Developer • Building products that solve real problems
 
